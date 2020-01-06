@@ -1,2 +1,2 @@
-# switch-statementt
+# switch-statement
 switch statement in cpp
